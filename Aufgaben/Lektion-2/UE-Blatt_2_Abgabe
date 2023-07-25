@@ -1,0 +1,37 @@
+UE-Blatt_2-Jasper_Sagawe
+
+- Aufgabe 1: Siehe randomListe.py
+Die Wahrscheinlichkeit eine Liste zu erhalten beträgt 1/101^25.
+Da ich 0 ebenfalls bei den zufälligen Zahlen zuzähle, hat jede Zahl die Chance 1/101 aufzutreten.
+Diese Chance muss man für jede Zahl darauf multiplizieren, wodurch wir 101^25 Möglichkeiten erhalten.
+Ausgeschrieben ist die Chance 7,79768443*10^-51%.
+
+
+- Aufgabe 2: Siehe schieberegister.py
+Nach 25 Iterationsschritten nach links werden die ersten 25 Zahlen der Liste gelöscht und auf der rechten Seite werden 25 neue Zahlen generiert.
+Nach 25 Iterationsschritten nach rechts werden die letzten 25 Zahlen der Liste gelöscht und auf der linken Seite werden 25 neue Zahlen generiert.
+Führt man beides hintereinander aus, sind die letzten 25 Zahlen wieder so wie vor dem Verschieben, aber die ersten 25 Zahlen sind neu generierte Zahlen.
+
+
+- Aufgabe 3: Siehe matrixMitGaußVerfahren.py
+In matrixMitKnoten.py befindet sich Code, den ich zur Hilfe genutzt habe.
+
+Alle Kanten haben einen zufälligen Wert, der bei ungefähr 50 liegt. Je höher die Standardabweichung, desto höher ist der Abstand von den Kanten.
+Da der Graph ungerichtet ist, kann der Greedy-Algorithmus den gleichen Pfad permanent nutzen. 
+Wenn nun einer der ersten Kanten einen vergleichsweise hohen Wert hat, wird diese Kante permanent genutzt. 
+Dadurch besteht eine hohe Chance, dass man öfters gleiche oder zumindest ähnliche Ergebnisse erhält.
+
+Ist die Standardabweichung jetzt 0, hat jede Kante den gleichen Wert, da keine Abweichung zu 50 mehr besteht.
+Wenn alle Kanten den gleichen Wert haben, wird somit auch die Gesamtzahl der Schritte immer gleich sein.
+
+
+- Aufgabe 4:  Siehe matrixGerichtet.py
+In der Aufgabe soll man eigentlich einen gerichteten Graphen generieren, jedoch würde dann die zweite Hälfte der Aufgabe unnütz sein.
+Deswegen habe ich stattdessen die Verbindungen zufällig generieren lassen und daraufhin zwischen gerichteten und ungerichteten Verbindungen sortiert.
+
+
+- Aufgabe 5: 
+Bei gerichteten Graphen ist die Matrix asymmetrisch, da jede Kante nur eine Bedeutung hat. Man trennt klar zwischen Knoten und Nachbarknoten.
+Bei ungerichteten Graphen kann man jedoch sowohl vom Knoten zum Nachbarknoten, als auch zurück, wodurch jede Kante zwei Bedeutungen hat. Dadurch ist diese symmetrisch.
+
+Der Summenwert einer symmetrischen Matrix ist doppelt so hoch wie der einer asymmetrischen Matrix, da in der symmetrischen jeder Wert doppelt gezählt wird, in der asymmetrischen aber nur einmal.
