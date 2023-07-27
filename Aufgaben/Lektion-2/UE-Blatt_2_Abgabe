@@ -18,7 +18,7 @@ In matrixMitKnoten.py befindet sich Code, den ich zur Hilfe genutzt habe.
 
 Alle Kanten haben einen zufälligen Wert, der bei ungefähr 50 liegt. Je höher die Standardabweichung, desto höher ist der Abstand von den Kanten.
 Da der Graph ungerichtet ist, kann der Greedy-Algorithmus den gleichen Pfad permanent nutzen. 
-Wenn nun einer der ersten Kanten einen vergleichsweise hohen Wert hat, wird diese Kante permanent genutzt. 
+Wenn nun einer der ersten Kanten einen vergleichsweise kleinen Wert hat, wird diese Kante permanent genutzt. 
 Dadurch besteht eine hohe Chance, dass man öfters gleiche oder zumindest ähnliche Ergebnisse erhält.
 
 Ist die Standardabweichung jetzt 0, hat jede Kante den gleichen Wert, da keine Abweichung zu 50 mehr besteht.
