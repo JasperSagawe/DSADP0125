@@ -15,7 +15,7 @@ def erstelleKnoten(kn):
 def erstelleNachbarn():
     for knoten in Matrix:
         # Jeder Knoten hat mindestens 3 Nachbarknoten, aber maximal 5.
-        anzahlNachbarn = random.randint(3, min(5, len(Matrix) - 1))
+        anzahlNachbarn = random.randint(3, 5)
 
         # Ausschließen des aktuellen Knotens von den potenziellen Nachbarn.
         moeglicheNachbarn = [
