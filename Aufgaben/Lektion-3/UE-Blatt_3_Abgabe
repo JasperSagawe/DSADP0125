@@ -1,0 +1,24 @@
+UE-Blatt_3-Jasper_Sagawe
+
+- Aufgabe 1: Siehe gaußverteilung.py
+
+In der Routine kann man durch mehrfache Ausführung sehen, dass bei derselben Mittelwert und Standardabweichung Kombination,
+immer ungefähr den gleichen Mittelwert und die gleiche Standardabweichung der Summe herauskommt. Dies liegt am zentralen Grenzwertsatz.
+Dieser besagt, dass die Summe vieler, auf gleicherweise generierten, Zufallszahlen eine Gaußverteilung annimmt.
+
+- Aufgabe 2: Siehe leibnizReihe.py
+
+Mit 10000 Iterationsschritten lautet die Pi-Zahl 3.141492653. Dadurch gibt es ab der vierten Nachkommastelle eine Abweichung zu Pi.
+Je mehr Iterationsschritte man hat, desto näher ist die Zahl an Pi.
+
+- Aufgabe 3: Siehe matrixMitGaußVerfahren.py
+
+Meine Ansätze multiprocessing zu nutzen haben nicht funktioniert. Aber an sich sollte sich die Genauigkeit einer Berechnung nicht verändern.
+Es wird noch immer dieselbe Berechnung, nur auf mehreren Kernen, durchgeführt. Dadurch geht die Berechnung zwar schneller, aber an der Genauigkeit ändert sich nichts.
+
+- Aufgabe 4: Siehe montyHall.py
+
+- Aufgabe 5: Siehe lotterie.py
+
+Im Schnitt bekommt man mit meinen Zahlen 10% bis 20% des Anteils zurück.
+Um es realistischer gestalten zu können, kann man die Preise basierend auf gespielte Spiele erhöhen. Je mehr gespielt wird, desto mehr kann gewonnen werden.
