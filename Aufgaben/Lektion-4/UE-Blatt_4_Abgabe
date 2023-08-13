@@ -1,0 +1,15 @@
+UE-Blatt_4-Jasper_Sagawe
+
+- Aufgabe 1: Siehe fibonacci.py
+Die erste Primzahl nach der 25. Fibonacci-Zahl ist 46381.
+Jedoch habe ich hierbei 0 als erste Fibonacci-Zahl genommen (F(1) = 0). 
+Betrachtet man die Zahlenfolge mit F(0) = 0, wie es üblicher ist, dann lautet das Ergebnis 75029.
+
+- Aufgabe 2: Siehe stringZuWert.py
+
+- Aufgabe 3: Siehe shannonEntropie.py
+
+- Aufgabe 4: Siehe haeufigkeitsverteilungWoerter.py
+
+- Aufgabe 5: Habe ich leider nicht geschafft.
+
