@@ -1,0 +1,111 @@
+{
+  "Lager": {
+    "Artikel": [
+      {
+        "Artikelnr": "4070",
+        "Bezeichnung": "Headlight",
+        "Farbe": "Grün",
+        "Preis": "0,20",
+        "Bestand": "122"
+      },
+      {
+        "Artikelnr": "3794",
+        "Bezeichnung": "Jumper",
+        "Farbe": "Beige",
+        "Preis": "0,09",
+        "Bestand": "34"
+      },
+      {
+        "Artikelnr": "65432",
+        "Bezeichnung": "Cheeseslope",
+        "Farbe": "Gelb",
+        "Preis": "0,16",
+        "Bestand": "87"
+      },
+      {
+        "Artikelnr": "61409",
+        "Bezeichnung": "Käsereibe",
+        "Farbe": "Silber",
+        "Preis": "0,25",
+        "Bestand": "46"
+      },
+      {
+        "Artikelnr": "6082",
+        "Bezeichnung": "BURP",
+        "Farbe": "Grau",
+        "Preis": "3,49",
+        "Bestand": "6"
+      },
+      {
+        "Artikelnr": "6083",
+        "Bezeichnung": "LURP",
+        "Farbe": "Grau",
+        "Preis": "6,03",
+        "Bestand": "12"
+      },
+      {
+        "Artikelnr": "4733",
+        "Bezeichnung": "Travis Brick",
+        "Farbe": "Rot",
+        "Preis": "0,22",
+        "Bestand": "89"
+      },
+      {
+        "Artikelnr": "3001",
+        "Bezeichnung": "Brick",
+        "Farbe": "Weiß",
+        "Preis": "0,25",
+        "Bestand": "2152"
+      },
+      {
+        "Artikelnr": "3035",
+        "Bezeichnung": "Plate",
+        "Farbe": "Grün",
+        "Preis": "1,00",
+        "Bestand": "425"
+      },
+      {
+        "Artikelnr": "2436",
+        "Bezeichnung": "Bracket",
+        "Farbe": "Gelb",
+        "Preis": "0,24",
+        "Bestand": "149"
+      },
+      {
+        "Artikelnr": "3039",
+        "Bezeichnung": "Slope",
+        "Farbe": "Blau",
+        "Preis": "0,15",
+        "Bestand": "265"
+      },
+      {
+        "Artikelnr": "42060",
+        "Bezeichnung": "Wedge",
+        "Farbe": "Blau",
+        "Preis": "0,25",
+        "Bestand": "68"
+      },
+      {
+        "Artikelnr": "4150",
+        "Bezeichnung": "Tile",
+        "Farbe": "Gelb",
+        "Preis": "0,33",
+        "Bestand": "64"
+      },
+      {
+        "Artikelnr": "4865",
+        "Bezeichnung": "Panel",
+        "Farbe": "Schwarz",
+        "Preis": "0,16",
+        "Bestand": "77"
+      },
+      {
+        "Artikelnr": "30065",
+        "Bezeichnung": "Dish",
+        "Farbe": "Blau",
+        "Preis": "0,49",
+        "Bestand": "216"
+      }
+    ]
+  }
+}

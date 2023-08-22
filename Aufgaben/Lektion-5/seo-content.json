@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Produkt",
+  "@id": "https://www.lego.com/de-de/product/millennium-falcon-75192?ef_id=Cj0KCQjwuZGnBhD1ARIsACxbAVjH0i_UuqHmewNJ0UPW-01sjAaapeOFY9mYR9YSyJ7srm8dfj-PSLQaAr_REALw_wcB:G:s&s_kwcid=AL!933!3!!!!x!!!19820093754!&cmp=KAC-INI-GOOGEU-GO-DE-DE-RE-SP-BUY-CREATE-PLA-SHOP-BP-SP-RN-PMAX_MEDIUM_PRIORITY",
+  "ArtikelId": "75192",
+  "Bezeichnung": "Millennium Falcon™",
+  "bild": [
+    "https://www.lego.com/cdn/cs/set/assets/blt95c35d4ed5665a49/75192.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5"
+  ],
+  "beschreibung": "",
+  "marken": [
+    {
+      "@type": "Lego",
+      "@id": "https://www.lego.com",
+      "name": "The LEGO Group"
+    },
+    {
+      "@type": "Star Wars",
+      "@id": "https://www.lucasfilm.com/",
+      "name": "LUCASFILM LTD."
+    }
+  ],
+  "angebot": {
+    "@type": "Angebot",
+    "artDerWaehrung": "Euro",
+    "preis": "849,99",
+    "url": "https://www.lego.com/de-de/product/millennium-falcon-75192?ef_id=Cj0KCQjwuZGnBhD1ARIsACxbAVjH0i_UuqHmewNJ0UPW-01sjAaapeOFY9mYR9YSyJ7srm8dfj-PSLQaAr_REALw_wcB:G:s&s_kwcid=AL!933!3!!!!x!!!19820093754!&cmp=KAC-INI-GOOGEU-GO-DE-DE-RE-SP-BUY-CREATE-PLA-SHOP-BP-SP-RN-PMAX_MEDIUM_PRIORITY",
+    "verkaeufer": {
+      "@type": "Organisation",
+      "name": "The LEGO Group"
+    }
+  }
+}
